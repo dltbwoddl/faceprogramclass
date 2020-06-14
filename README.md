@@ -16,4 +16,7 @@ https://teachablemachine.withgoogle.com/train/image
 
 웹 페이지 주소 : https://naughty-noether-a8b46b.netlify.app/
 #보다 상세한 정보는 코드에서 확인해 주세요.
+학습 데이터에 포함되지 않은 강다니엘씨를 넣어보았습니다.
+결과가 challenger인 것을 보면 나름 정확한 것 같네요.
+물론 아직 완벽하지 않습니다.
 ![alt text](https://dltbwoddl.github.io/faceprogramclass/result.png)
